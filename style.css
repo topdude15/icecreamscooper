@@ -1,0 +1,15 @@
+#clicker{ 
+ align: center;
+}
+p{
+ text-align: center;
+}	
+button{
+ border: none;
+ background: none;
+ padding-top: 1.5%;
+ padding-bottom: 1.5%	
+}
+#buttons{
+	text-align: center;
+}
